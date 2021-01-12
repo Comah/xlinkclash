@@ -115,13 +115,6 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 
-# EncoreTVB
-USER-AGENT,encoreTVB*
-DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,content.jwplatform.com
-DOMAIN,edge.api.brightcove.com
-DOMAIN,videos-f.jwpsrv.com
-DOMAIN-SUFFIX,encoretvb.com
 
 # FoxNow
 USER-AGENT,FOX%20NOW*
@@ -308,11 +301,6 @@ DOMAIN-SUFFIX,pbs.org
 USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
 
-# Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
 
 # Qobuz
 DOMAIN-SUFFIX,qobuz.com
@@ -322,16 +310,6 @@ USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
-
-# Spotify
-USER-AGENT,Spotify*
-DOMAIN-KEYWORD,-spotify-com
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.net
 
 # TIDAL
 USER-AGENT,TIDAL*
@@ -357,13 +335,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
-# Twitch
-DOMAIN-KEYWORD,ttvnw
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-
 # ViuTV
 USER-AGENT,Viu*
 USER-AGENT,ViuTV*
@@ -382,20 +353,6 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
-
-# YouTube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-USER-AGENT,com.google.ios.youtube*
-DOMAIN-KEYWORD,youtube
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
 
 # YouTubeMusic
 USER-AGENT,*YouTubeMusic*
