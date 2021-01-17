@@ -1,2 +1,7 @@
-# xlinkclash
-muncloud自定义配置文件ini 加强媒体分组版 tvb 
+# Twitch
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,hkg.contribute.live-video.net
