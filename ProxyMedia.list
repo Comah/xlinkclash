@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-12-28 20:40:00
-# 数量：321条
+# 更新：2021-01-12 22:37:57
+# 数量：330条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -69,6 +69,9 @@ DOMAIN-SUFFIX,hinet.net
 USER-AGENT,DAZN*
 DOMAIN-KEYWORD,voddazn
 DOMAIN,d151l6v8er5bdm.cloudfront.net
+DOMAIN-SUFFIX,amplify.outbrain.com
+DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,control.kochava.com
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
 DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
@@ -80,11 +83,17 @@ DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
 DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
 DOMAIN-SUFFIX,dcalivedazn.akamaized.net
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
+DOMAIN-SUFFIX,docomo.ne.jp
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,pause-confirmed-marketing-images-prod.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,perfops.doracdn.com
+DOMAIN-SUFFIX,rest.zuora.com
 DOMAIN-SUFFIX,s.yimg.jp
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,vjs.zencdn.net
+DOMAIN-SUFFIX,yahoo.co.jp
 
 # Deezer
 USER-AGENT,Deezer*
@@ -115,6 +124,13 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 
+# EncoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
 
 # FoxNow
 USER-AGENT,FOX%20NOW*
@@ -185,8 +201,8 @@ DOMAIN-SUFFIX,hulustream.com
 # HuluJapan
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yb.uncn.jp
 
 # ITV
@@ -243,9 +259,10 @@ DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 
-
 # Netflix
 USER-AGENT,Argo*
+DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
@@ -291,7 +308,6 @@ USER-AGENT,Niconico*
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,socdm.com
 
 # PBS
 USER-AGENT,PBS*
@@ -301,7 +317,6 @@ DOMAIN-SUFFIX,pbs.org
 USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
 
-
 # Qobuz
 DOMAIN-SUFFIX,qobuz.com
 
@@ -310,6 +325,16 @@ USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
+
+# Spotify
+USER-AGENT,Spotify*
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
 
 # TIDAL
 USER-AGENT,TIDAL*
@@ -335,6 +360,7 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
+
 # ViuTV
 USER-AGENT,Viu*
 USER-AGENT,ViuTV*
@@ -353,6 +379,19 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
+
+# YouTube
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
+DOMAIN-KEYWORD,youtube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
 
 # YouTubeMusic
 USER-AGENT,*YouTubeMusic*
