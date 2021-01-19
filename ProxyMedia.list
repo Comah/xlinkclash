@@ -399,4 +399,5 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 
-#ACL4SSR分组地址 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+# ACL4SSR分组地址 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+# https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Ruleset
