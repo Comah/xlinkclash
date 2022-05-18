@@ -1,4 +1,5 @@
 # Netease Music
+USER-AGENT,NeteaseMusic*
   - DOMAIN,apm3.music.163.com,Unblock
   - DOMAIN,apm.music.163.com,Unblock
   - DOMAIN,interface3.music.163.com,Unblock
